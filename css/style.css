@@ -1,0 +1,24 @@
+.gradient-background {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 84%,
+    rgba(102, 106, 107, 1) 99%
+  );
+}
+.padding-top-10 {
+  padding-top: 10px;
+}
+.background-gray {
+  background-color: gray;
+  color: white;
+}
+.primary-font{
+    font-size: larger;
+    font-weight: 600;
+}
+.secondary-font{
+    font-size: large;
+    font-weight: 500;
+}
