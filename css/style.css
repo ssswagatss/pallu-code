@@ -1,3 +1,6 @@
+*{
+    font-family: Calibri, sans-serif
+}
 .gradient-background {
   background: rgb(0, 0, 0);
   background: linear-gradient(
@@ -21,4 +24,17 @@
 .secondary-font{
     font-size: large;
     font-weight: 500;
+}
+.background-blue{
+    background-color: #c4ceef;
+    color: #504f4f;
+    text-align: center;
+    font-weight: bold;
+}
+.margin-top-10{
+    margin-top: 10px;
+}
+.remove-padding{
+    padding-right: 5px;
+    padding-left:0px ;
 }
