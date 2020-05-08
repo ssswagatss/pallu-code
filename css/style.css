@@ -45,7 +45,7 @@
 
 .margin-right {
   border-right: 1px solid white;
-  height: 500px;
+  height: 620px;
 }
 .left-button {
   background-color: #969393;
@@ -62,6 +62,9 @@
 }
 .left-button.multi-line {
   line-height: unset;
+}
+.left-button.small{
+  text-align: left;
 }
 .blue-left-button {
   background: rgba(73, 155, 234, 1);
@@ -162,7 +165,7 @@
 
 /* Middle menu */
 .middle-menu {
-  margin-top: 15px;
+  margin-top: 35px;
   text-align: center;
   font-size: small;
   font-weight: 600;
