@@ -14,7 +14,7 @@
   padding-top: 10px;
 }
 .background-gray {
-  background-color: gray;
+  background-color: #969393;
   color: white;
 }
 .primary-font {
@@ -48,7 +48,7 @@
   height: 500px;
 }
 .left-button {
-  background-color: gray;
+  background-color: #969393;
   color: white;
   font-weight: bold;
   text-align: center;
@@ -169,11 +169,11 @@
 }
 .middle-menu .row-1{
   background-color: honeydew;
-  color: gray;
+  color: #969393;
   padding:4px;
 }
 .middle-menu .row-2{
-  background-color:gray;
+  background-color:#969393;
   color: honeydew;
   padding:4px;
 }
