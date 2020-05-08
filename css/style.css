@@ -180,3 +180,12 @@
   color: honeydew;
   padding:4px;
 }
+.right-sub-menu{
+  margin-top: 5px;
+  background-color: #969393;
+  color: white;
+  font-size: 14px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 4px;
+}
