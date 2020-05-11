@@ -49,20 +49,24 @@
   margin-top: 10px;
 }
 
-.margin-right {
+.border-right {
   border-right: 1px solid white;
-  height: 620px;
+  height: 100%;
+}
+.border-left {
+  border-left: 1px solid white;
+  height: 100%;
 }
 .left-button {
   background-color: #969393;
   color: white;
   font-weight: bold;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 25px;
   margin-left: 10px;
   margin-right: 0px;
-  min-height: 38px;
-  line-height: 38px;
+  min-height: 45px;
+  line-height: 45px;
   font-size: 18px;
   cursor: pointer;
 }
@@ -171,7 +175,7 @@
 
 /* Middle menu */
 .middle-menu {
-  margin-top: 35px;
+  margin-top: 65px;
   text-align: center;
   font-size: small;
   font-weight: 600;
